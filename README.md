@@ -6,19 +6,13 @@ Developed and designed a cyber-blog web application using Azure’s Cloud servic
 </b>
 </b>
 
-
-<h2>Languages and Utilities Used</h2>
-
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
-
 <h2>Environments Used </h2>
 
 - <b>Azure: Keyvaults, App Services, Front Door, WAF,  PHP, HTML, Docker, OpenSSL</b> 
 
 <h2>Program walk-through:</h2>
 Describe/Summarize your Project
-I used Microsoft Azure to build and host my own “cyber-blog” web application. I then applied Azure’s security features to protect it. 
+I used Microsoft Azure (https://portal.azure.com) to build and host my own “cyber-blog” web application. I then applied Azure’s security features to protect it. 
 What were your project Requirements?
 Our requirements included:
 Hosting the web application using Azure’s Cloud Services
@@ -28,7 +22,6 @@ Deploying a Docker container which had a framework for a blog webpage
 SSHing  into the container to customize the webpage
 Creating a Self-signed certificate with OpenSSL 
 Storing the certificate in Azure’s Key vault
-Binding the certificate to the website (If you didn't select the free option)
 After determining the security issues with a self-signed certificate, creating and binding a managed CA approved certificate to the web application
 Deploying Azure’s Front Door, and configuring a WAF rule to restrict traffic from certain countries
 Analyzing the Azure’s Security Center recommendations and applying the recommended fix
