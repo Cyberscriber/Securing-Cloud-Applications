@@ -137,6 +137,10 @@ A WAF custom rule:<br />
 <img src="https://imgur.com/cibJGjw.png" height="80%" width="80%" alt="Azure Steps"/>
 <br />
 <br />
+<img src="https://imgur.com/WOmDYGh.png" height="80%" width="80%" alt="Azure Steps"/>
+<br />
+<br />
+ 
 </p>
 
 <!--
