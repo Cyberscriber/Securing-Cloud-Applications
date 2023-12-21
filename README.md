@@ -11,7 +11,6 @@ Developed and designed a cyber-blog web application using Azure’s Cloud servic
 - <b>Azure: Keyvaults, App Services, Front Door, WAF,  PHP, HTML, Docker, OpenSSL</b> 
 
 <h2>Program walk-through:</h2>
-Describe/Summarize your Project
 I used Microsoft Azure (https://portal.azure.com) to build and host my own “cyber-blog” web application. I then applied Azure’s security features to protect it. 
 What were your project Requirements?
 Our requirements included:
